@@ -1,16 +1,14 @@
 # referency_application
 
-A new Flutter project.
+Submission for the Google AI hackathon
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project seeks to address a challenge in academia.
 
-A few resources to get you started if this is your first Flutter project:
+Lectures often find it difficult in writing recommendation letters for students:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- It is time-consuming
+- Each letter needs to be unique for the student
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a step towards addressing this issue
